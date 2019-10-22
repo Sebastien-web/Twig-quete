@@ -1,0 +1,12 @@
+{
+    "name": "sebastien/twig_quete",
+    "authors": [
+        {
+            "name": "Sebastien Comberousse",
+            "email": "scomberousse@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
